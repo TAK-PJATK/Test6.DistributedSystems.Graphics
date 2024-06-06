@@ -64,7 +64,7 @@ This philosophy of building computer systems is commonly known as service-orient
 
 Below, you can see a graph illustrating the main providers of cloud solutions. As it shows, in the case of cloud computing, we typically observe a single owner controlling an entire ecosystem of services and managing the entire system in a uniform way. The service delivered by the cloud provider is usually much more extensive than in the case of grid systems.
 
-![Figure 2. The leading providers of cloud services.](#)
+![Figure 2. The leading providers of cloud services.](https://github.com/TAK-PJATK/Test6.DistributedSystems.Graphics/blob/main/CloudProviders.PNG?raw=true)
 
 Figure 2. The leading providers of cloud services.
 
@@ -146,7 +146,9 @@ A single pixel is usually capable of displaying any color in the device-supporte
 
 The choice of sub-pixel colors results from the laws of optics regarding mixing colors of light, which are based on the anatomy of the human eye that employs a color recognition system based on three types of cone cells, as shown in the following diagram:
 
-![Figure 1. The diagram of mixing colors of light.](http://en.wikipedia.org)
+![Figure 1. The diagram of mixing colors of light.](https://github.com/TAK-PJATK/Test6.DistributedSystems.Graphics/blob/main/ColorMixing.PNG?raw=true)
+
+Figure 1. The diagram of mixing colors of light. (http://en.wikipedia.org)
 
 The above image can be obtained by placing a white screen in a fully dark room and then using three colored torches (red, green, and blue) to illuminate three partially overlapping areas. As we see, all three primary colors combined together give white light; combining pairs produces other colors.
 
@@ -233,7 +235,9 @@ Similar to screens, printing technology is based on colored pixels, whose color 
 
 ##### Mixing Colors of Printing Ink
 
-![Figure 2. The diagram of mixing colors of printing ink.](http://en.wikipedia.org)
+![Figure 2. The diagram of mixing colors of printing ink.](https://github.com/TAK-PJATK/Test6.DistributedSystems.Graphics/blob/main/CMYK.PNG?raw=true)
+
+Figure 2. The diagram of mixing colors of printing ink.(http://en.wikipedia.org)
 
 The above image can be obtained by simultaneously placing three circles of printing ink (cyan, magenta, and yellow) on a white sheet of paper. The primary CMY colors coincide with the secondary light colors in the RGB model, and combining pairs of CMY inks leads to RGB primary colors. In practice, this correspondence may not be perfect due to technological differences between ink and diode producers.
 
