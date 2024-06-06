@@ -7,7 +7,7 @@ In this lecture, we will discuss an important area of technology that has not ye
 Networking technology enables the combination of multiple computers into a single **distributed system**, so that all the hardware resources can be utilized for more complex tasks. The term _distributed_ is used here to differentiate this approach from _centralized_ systems, where all information exchange occurs through a single central computer. Another alternative to the distributed model is a single _supercomputer_, which is equipped with extremely powerful components. These approaches are illustrated in the following diagrams:
 
 
-
+![](https://github.com/TAK-PJATK/Test6.DistributedSystems.Graphics/blob/main/LargeScaleComputerSystems.PNG?raw=true)
 Figure 1. Types of large-scale computer systems.
 
 ### Pros and cons
